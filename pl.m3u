@@ -1,184 +1,145 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" tvg-logo="" group-title="Kana≥y G≥Ûwne",TVP 1
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",TVP 1
 https://cdn-nvm-chicago.lolokoko.tv/TVP1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvp-2-hd-145" tvg-name="TVP 2" tvg-logo="" group-title="Kana≥y G≥Ûwne",TVP 2
+#EXTINF:-1 tvg-id="tvp-2-hd-145" tvg-name="TVP 2" tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",TVP 2
 https://cdn-nvm-chicago.lolokoko.tv/TVP2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat " tvg-logo="" group-title="Kana≥y G≥Ûwne",Polsat 
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat " tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",Polsat 
 https://cdn-nvm-chicago.lolokoko.tv/Polsat.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat " tvg-logo="" group-title="Kana≥y G≥Ûwne",Super Polsat 
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat " tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",Super Polsat 
 https://cdn-main.lolokoko.tv/SuperPolsat.stream/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 " tvg-logo="" group-title="Kana≥y G≥Ûwne",Polsat 2 
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 " tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",Polsat 2 
 https:/cdn-nvm-chicago.lolokoko.tv/Polsat2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4 " tvg-logo="" group-title="Kana≥y G≥Ûwne",TV4 
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4 " tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",TV4 
 https://cdn-nvm-chicago.lolokoko.tv/tv4.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV6" tvg-logo="" group-title="Kana≥y G≥Ûwne",TV6
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV6" tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",TV6
 https://cdn-nvm-chicago.lolokoko.tv/tv6.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN" tvg-logo="" group-title="Kana≥y G≥Ûwne",TVN
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN" tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",TVN
 https://cdn-nvm-chicago.lolokoko.tv/TVN.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN7" tvg-logo="" group-title="Kana≥y G≥Ûwne",TVN7
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN7" tvg-logo="" group-title="Kana≈Çy G≈Ç√≥wne",TVN7
 https://cdn-nvm-chicago.lolokoko.tv/TVN7.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvp-2-hd-145" tvg-name="TVP 2" tvg-logo="" group-title="",TVP 2
-https://cdn-nvm-chicago.lolokoko.tv/TVP2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVN24" tvg-name="TVN24 HD" tvg-logo="" group-title="Kana≥y Informacyjne",TVN24 HD
+#EXTINF:-1 tvg-id="TVN24" tvg-name="TVN 24" tvg-logo="" group-title="Kana≈Çy Informacyjne",TVN 24
 https://cdn-nvm-chicago.lolokoko.tv/tvn24.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TVN24BiS.pl" tvg-name="TVN24 BiS " tvg-logo="" group-title="Kana≥y Informacyjne",TVN24 BiS 
+#EXTINF:-1 tvg-id="TVN24BiS.pl" tvg-name="TVN 24 BiS " tvg-logo="" group-title="Kana≈Çy Informacyjne",TVN 24 BiS 
 https://cdn-nvm-chicago.lolokoko.tv/tvn24bis.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Polsat News" tvg-name="Polsat News" tvg-logo="" group-title="Kana≥y Informacyjne",Polsat News
+#EXTINF:-1 tvg-id="Polsat News" tvg-name="Polsat News" tvg-logo="" group-title="Kana≈Çy Informacyjne",Polsat News
 https://cdn-nvm-chicago.lolokoko.tv/PolsatNews.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" tvg-logo="" group-title="Kana≥y Informacyjne",Polsat News 2
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" tvg-logo="" group-title="Kana≈Çy Informacyjne",Polsat News 2
 https://cdn-nvm-chicago.lolokoko.tv/PolsatNews2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="" group-title="Kana≥y Informacyjne",TVP Info
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="" group-title="Kana≈Çy Informacyjne",TVP Info
 https://cdn-nvm-chicago.lolokoko.tv/TVPInfo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="" group-title="Kana≥y Informacyjne",TV Republika
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="" group-title="Kana≈Çy Informacyjne",TV Republika
 https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8
-
-#EXTINF:-1 tvg-id="Polsatplay.pl" tvg-name="Polsat Play " tvg-logo="" group-title="Kana≥y Rozrywkowe",Polsat Play 
+#EXTINF:-1 tvg-id="Polsatplay.pl" tvg-name="Polsat Play " tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Polsat Play 
 https://cdn-nvm-chicago.lolokoko.tv/polsatplay.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku" tvg-logo="" group-title="Kana≥y Dokumentalne",Polsat Doku
+#EXTINF:-1 tvg-id="PolsatDoku.pl" tvg-name="Polsat Doku" tvg-logo="" group-title="Kana≈Çy Dokumentalne",Polsat Doku
 https://cdn-nvm-chicago.lolokoko.tv/PolsatDoku.stream/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="Canal+Dokument" tvg-name="Canal+ Dokument" tvg-logo="" group-title="Kana≥y Dokumentalne",Canal+ Dokument
+#EXTINF:-1 tvg-id="Canal+Dokument" tvg-name="Canal+ Dokument" tvg-logo="" group-title="Kana≈Çy Dokumentalne",Canal+ Dokument
 https://cdn-nvm-chicago.lolokoko.tv/canalplusdokument.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="AXNPolska.pl" tvg-name="AXN" tvg-logo="" group-title="Kana≥y Rozrywkowe",AXN
+#EXTINF:-1 tvg-id="AXNPolska.pl" tvg-name="AXN" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",AXN
 https://cdn-nvm-chicago.lolokoko.tv/axnpolska.stream/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="" group-title="Kana≥y Rozrywkowe",AXN White
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",AXN White
 https://cdn-nvm-chicago.lolokoko.tv/AXNWHITE.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="" group-title="Kana≥y Rozrywkowe",AXN Black
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",AXN Black
 https://cdn-nvm-chicago.lolokoko.tv/AXNBLACK.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="axn-spin-hd-292" tvg-name="AXN Spin" tvg-logo="" group-title="Kana≥y Rozrywkowe",AXN Spin
+#EXTINF:-1 tvg-id="axn-spin-hd-292" tvg-name="AXN Spin" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",AXN Spin
 https://cdn-nvm-chicago.lolokoko.tv/AXNSPIN.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" tvg-logo="" group-title="Kana≥y Rozrywkowe",TV Puls
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",TV Puls
 https://cdn-nvm-chicago.lolokoko.tv/TVPuls.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" tvg-logo="" group-title="Kana≥y Rozrywkowe",Puls 2
+#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Puls 2
 https://cdn-nvm-chicago.lolokoko.tv/TVPuls2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StopklatkaTV.pl" tvg-name="Stopklatka TV" tvg-logo="" group-title="Kana≥y Rozrywkowe",Stopklatka TV
+#EXTINF:-1 tvg-id="StopklatkaTV.pl" tvg-name="Stopklatka TV" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Stopklatka TV
 https://cdn-nvm-chicago.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal+Family" tvg-name="Canal+ Family" tvg-logo="" group-title="Kana≥y Rozrywkowe",Canal+ Family
+#EXTINF:-1 tvg-id="Canal+Family" tvg-name="Canal+ Family" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Canal+ Family
 https://cdn-nvm-chicago.lolokoko.tv/canalplusfamily.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Canal+Film" tvg-name="Canal+ Film" tvg-logo="" group-title="Kana≥y Rozrywkowe",Canal+ Film
+#EXTINF:-1 tvg-id="Canal+Film" tvg-name="Canal+ Film" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Canal+ Film
 https://cdn-nvm-chicago.lolokoko.tv/canalplusfilm.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Canal+Premium" tvg-name="Canal+ Premium" tvg-logo="" group-title="Kana≥y Rozrywkowe",Canal+ Premium
+#EXTINF:-1 tvg-id="Canal+Premium" tvg-name="Canal+ Premium" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Canal+ Premium
 https://cdn-nvm-chicago.lolokoko.tv/canalplushd.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Canal+Seriale" tvg-name="Canal+ Seriale" tvg-logo="" group-title="Kana≥y Rozrywkowe",Canal+ Seriale
+#EXTINF:-1 tvg-id="Canal+Seriale" tvg-name="Canal+ Seriale" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Canal+ Seriale
 https://cdn-nvm-chicago.lolokoko.tv/canalplusseriale.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="BBCFirst.pl" tvg-name="BBC First" tvg-logo="" group-title="Kana≥y Rozrywkowe",BBC First
+#EXTINF:-1 tvg-id="BBCFirst.pl" tvg-name="BBC First" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",BBC First
 https://cdn-nvm-chicago.lolokoko.tv/BBCHD.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film" tvg-logo="" group-title="Kana≥y Rozrywkowe",Polsat Film
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Polsat Film
 https://cdn-nvm-chicago.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="Polsat Games" tvg-logo="" group-title="Kana≥y Rozrywkowe",Polsat Games
+#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="Polsat Games" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Polsat Games
 https://cdn-nvm-chicago.lolokoko.tv/PolsatGames.stream/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat CafÈ" tvg-logo="" group-title="Kana≥y Rozrywkowe",Polsat CafÈ
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Caf√©" tvg-logo="" group-title="Kana≈Çy Rozrywkowe",Polsat Caf√©
 https://cdn-nvm-chicago.lolokoko.tv/PolsatCafe.stream/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" tvg-logo="" group-title="Kana≥y dla Dzieci",CBeebies
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" tvg-logo="" group-title="Kana≈Çy dla Dzieci",CBeebies
 https://cdn-nvm-chicago.lolokoko.tv/CBeebies.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior" tvg-logo="" group-title="Kana≥y dla Dzieci",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior" tvg-logo="" group-title="Kana≈Çy dla Dzieci",Disney Junior
 https://cdn-nvm-chicago.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="" group-title="Kana≥y dla Dzieci",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="" group-title="Kana≈Çy dla Dzieci",Disney XD
 https://cdn-nvm-chicago.lolokoko.tv/DisneyXD.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="boomerang-hd-616" tvg-name="Cartoonito" tvg-logo="" group-title="Kana≥y dla Dzieci",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonnetwork.pl" tvg-name="Cartoon Network" tvg-logo="" group-title="Kana≈Çy dla Dzieci",Cartoon Network
+https://www.kool.to/play/3689966147/index.m3u8
+#EXTINF:-1 tvg-id="boomerang-hd-616" tvg-name="Cartoonito" tvg-logo="" group-title="Kana≈Çy dla Dzieci",Cartoonito
 https://cdn-nvm-chicago.lolokoko.tv/cartoonito.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr" tvg-logo="" group-title="Kana≥y dla Dzieci",Nick Jr
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr" tvg-logo="" group-title="Kana≈Çy dla Dzieci",Nick Jr
 https://cdn-nvm-chicago.lolokoko.tv/NickJr.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" tvg-logo="" group-title="Kana≥y dla Dzieci",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" tvg-logo="" group-title="Kana≈Çy dla Dzieci",Nickelodeon
 https://cdn-nvm-chicago.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="Nicktoons" tvg-logo="" group-title="Kana≥y dla Dzieci",Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="Nicktoons" tvg-logo="" group-title="Kana≈Çy dla Dzieci",Nicktoons
 https://cdn-nvm-chicago.lolokoko.tv/Nicktoons.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Minimini.pl" tvg-name="MiniMini+" tvg-logo="" group-title="Kana≥y dla Dzieci",MiniMini+
+#EXTINF:-1 tvg-id="Minimini.pl" tvg-name="MiniMini+" tvg-logo="" group-title="Kana≈Çy dla Dzieci",MiniMini+
 https://cdn-nvm-chicago.lolokoko.tv/MiniMini.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="teletoon.pl" tvg-name="Teletoon+" tvg-logo="" group-title="Kana≥y dla Dzieci",Teletoon+
+#EXTINF:-1 tvg-id="teletoon.pl" tvg-name="Teletoon+" tvg-logo="" group-title="Kana≈Çy dla Dzieci",Teletoon+
 https://cdn-nvm-chicago.lolokoko.tv/TELETOON.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="" group-title="Kana≥y Sportowe",TVP Sport
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="" group-title="Kana≈Çy Sportowe",TVP Sport
 https://cdn-nvm-chicago.lolokoko.tv/TVPSport.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport" tvg-logo="" group-title="Kana≥y Sportowe",Polsat Sport
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport" tvg-logo="" group-title="Kana≈Çy Sportowe",Polsat Sport
 https://cdn-nvm-chicago.lolokoko.tv/PolsatSport.stream/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="Canal+Sport2" tvg-name="Canal+ Sport 2" tvg-logo="" group-title="Kana≥y Sportowe",Canal+ Sport 2
+#EXTINF:-1 tvg-id="Canal+Sport2" tvg-name="Canal+ Sport 2" tvg-logo="" group-title="Kana≈Çy Sportowe",Canal+ Sport 2
 https://cdn-nvm-chicago.lolokoko.tv/canalplussport2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Canal+Sport3" tvg-name="Canal+ Sport 3" tvg-logo="" group-title="Kana≥y Sportowe",Canal+ Sport 3
+#EXTINF:-1 tvg-id="Canal+Sport3" tvg-name="Canal+ Sport 3" tvg-logo="" group-title="Kana≈Çy Sportowe",Canal+ Sport 3
 https://cdn-nvm-chicago.lolokoko.tv/canalplussport3.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Canal+Sport4" tvg-name="Canal+ Sport 4" tvg-logo="" group-title="Kana≥y Sportowe",Canal+ Sport 4
+#EXTINF:-1 tvg-id="Canal+Sport4" tvg-name="Canal+ Sport 4" tvg-logo="" group-title="Kana≈Çy Sportowe",Canal+ Sport 4
 https://cdn-nvm-chicago.lolokoko.tv/canalplussport4.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TVNTURBO.pl" tvg-name="TVN Turbo" tvg-logo="" group-title="Kana≥y Motoryzacyjne",TVN Turbo
+#EXTINF:-1 tvg-id="TVNTURBO.pl" tvg-name="TVN Turbo" tvg-logo="" group-title="Kana≈Çy Motoryzacyjne",TVN Turbo
 https://cdn-nvm-chicago.lolokoko.tv/tvnturbo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DTX.pl" tvg-name="DTX" tvg-logo="" group-title="Kana≥y Motoryzacyjne",DTX
+#EXTINF:-1 tvg-id="DTX.pl" tvg-name="DTX" tvg-logo="" group-title="Kana≈Çy Motoryzacyjne",DTX
 https://cdn-nvm-chicago.lolokoko.tv/DTX.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery" tvg-logo="" group-title="Kana≥y Naukowe",Discovery
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery" tvg-logo="" group-title="Kana≈Çy Naukowe",Discovery
 https://cdn-nvm-chicago.lolokoko.tv/discoverychannel.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" tvg-logo="" group-title="Kana≥y Naukowe",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" tvg-logo="" group-title="Kana≈Çy Naukowe",National Geographic
 https://cdn-nvm-chicago.lolokoko.tv/nationalgeographic.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV" tvg-logo="" group-title="Kana≥y Muzyczne",Nuta TV
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV" tvg-logo="" group-title="Kana≈Çy Muzyczne",Nuta TV
 https://cdn-nvm-chicago.lolokoko.tv/nuta.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV" tvg-logo="" group-title="Kana≥y Muzyczne",Polo TV
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV" tvg-logo="" group-title="Kana≈Çy Muzyczne",Polo TV
 https://cdn-nvm-chicago.lolokoko.tv/PoloTV.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Disco Polo Music" tvg-logo="" group-title="Kana≥y Muzyczne",Disco Polo Music
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Disco Polo Music" tvg-logo="" group-title="Kana≈Çy Muzyczne",Disco Polo Music
 https://cdn-nvm-chicago.lolokoko.tv/discopolomusic.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="eskaTV.pl" tvg-name="Eska TV" tvg-logo="" group-title="Kana≥y Muzyczne",Eska TV
+#EXTINF:-1 tvg-id="eskaTV.pl" tvg-name="Eska TV" tvg-logo="" group-title="Kana≈Çy Muzyczne",Eska TV
 https://cdn-nvm-chicago.lolokoko.tv/Eskatv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="eskaTVEkstra.pl" tvg-name="Eska TV Extra" tvg-logo="" group-title="Kana≥y Muzyczne",Eska TV Extra
+#EXTINF:-1 tvg-id="eskaTVEkstra.pl" tvg-name="Eska TV Extra" tvg-logo="" group-title="Kana≈Çy Muzyczne",Eska TV Extra
 https://cdn-nvm-chicago.lolokoko.tv/EskaTVExtra.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV" tvg-logo="" group-title="Kana≥y Muzyczne",Eska Rock TV
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV" tvg-logo="" group-title="Kana≈Çy Muzyczne",Eska Rock TV
 https://cdn-nvm-chicago.lolokoko.tv/powertv.stream/chunks.m3u8 
-
-#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4FUN TV" tvg-logo="" group-title="Kana≥y Muzyczne",4FUN TV
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4FUN TV" tvg-logo="" group-title="Kana≈Çy Muzyczne",4FUN TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
-
-#EXTINF:-1 tvg-id="polsatmusic.pl" tvg-name="Polsat Music" tvg-logo="" group-title="Kana≥y Muzyczne",Polsat Music
+#EXTINF:-1 tvg-id="polsatmusic.pl" tvg-name="Polsat Music" tvg-logo="" group-title="Kana≈Çy Muzyczne",Polsat Music
 https://cdn-nvm-chicago.lolokoko.tv/polsatmusic.stream/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam" tvg-logo="" group-title="Kana≥y Religijne",TV Trwam
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam" tvg-logo="" group-title="Kana≈Çy Religijne",TV Trwam
 https://cdn-nvm-chicago.lolokoko.tv/TVTrwam.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="RMF.pl" tvg-name="RMF FM" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",RMF FM
+http://195.150.20.7/rmf_fm
+#EXTINF:-1 tvg-id="RMFMAXX.pl" tvg-name="RMF MAXX" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",RMF MAXX
+http://195.150.20.7/rmf_maxxx_ksn
+#EXTINF:-1 tvg-id="ESKA.pl" tvg-name="RADIO ESKA" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",RADIO ESKA
+http://ic2.smcdn.pl/2240-1.mp3
+#EXTINF:-1 tvg-id="VOX.pl" tvg-name="VOX FM" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",VOX FM
+http://ic2.smcdn.pl/3990-1.mp3
+#EXTINF:-1 tvg-id="jedynka.pl" tvg-name="Polskie Radio Jedynka" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",Polskie Radio Jedynka
+http://stream3.polskieradio.pl:8950
+#EXTINF:-1 tvg-id="dw√≥jka.pl" tvg-name="Polskie Radio Dw√≥jka" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",Polskie Radio Dw√≥jka
+http://stream3.polskieradio.pl:8952
+#EXTINF:-1 tvg-id="tr√≥jka.pl" tvg-name="Polskie Radio Tr√≥jka" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",Polskie Radio Tr√≥jka
+http://stream3.polskieradio.pl:8954
+#EXTINF:-1 tvg-id="czw√≥rka.pl" tvg-name="Polskie Radio Czw√≥rka" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",Polskie Radio Czw√≥rka
+http://stream3.polskieradio.pl:8956
+#EXTINF:-1 tvg-id="PR24.pl" tvg-name="Polskie Radio 24" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",Polskie Radio 24
+http://stream3.polskieradio.pl:8480
+#EXTINF:-1 tvg-id="PolskieRadioKierowc√≥w.pl" tvg-name="Polskie Radio Kierowc√≥w" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",Polskie Radio Kierowc√≥w
+http://stream3.polskieradio.pl:8968
+#EXTINF:-1 tvg-id="Z≈ÇotePrzeboje.pl" tvg-name="Radio Z≈Çote Przeboje" tvg-shift="" radio="true" tvg-logo="" group-title="Radio",Radio Z≈Çote Przeboje
+https://radiostream.pl/tuba8928-1.mp3
